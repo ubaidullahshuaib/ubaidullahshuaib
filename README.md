@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Development and Cybersecurity
 - 🌱 I’m currently learning: Computer Science
 - 💞️ I’m looking to collaborate on: Nothing (yet)
-- 📫 How to reach me: https://linkedin.com/ubaidullahshuaib
+- 📫 How to reach me: https://linkedin.com/in/ubaidullahshuaib
 
 <!---
 ubaidullahshuaib/ubaidullahshuaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
