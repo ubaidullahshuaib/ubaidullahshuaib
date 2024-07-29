@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ubaid
+- 👋 Hi, I’m @belumume
 - 👀 I’m interested in: Dev stuff and Security
 - 🌱 I’m currently learning: Computer Science
 - 💞️ I’m looking to collaborate on: Nothing (yet)
